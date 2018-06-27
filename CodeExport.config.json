@@ -1,0 +1,11 @@
+{
+	"Module Paths": {
+		"Utilities_Specs": "src/Utilities_Specs.bas",
+		"Specs": "tests/Specs.bas",
+		"ImmediateReporter": "VBA-TDD/src/ImmediateReporter.cls",
+		"SpecDefinition": "VBA-TDD/src/SpecDefinition.cls",
+		"SpecExpectation": "VBA-TDD/src/SpecExpectation.cls",
+		"SpecSuite": "VBA-TDD/src/SpecSuite.cls",
+		"WorkbookReporter": "VBA-TDD/src/WorkbookReporter.cls"
+	}
+}
