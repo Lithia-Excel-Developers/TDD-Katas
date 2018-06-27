@@ -1,6 +1,7 @@
 {
 	"Module Paths": {
-		"Utilities_Specs": "src/Utilities_Specs.bas",
+		"Utilities": "src/Utilities.bas",
+		"Utilities_Specs": "tests/Utilities_Specs.bas",
 		"Specs": "tests/Specs.bas",
 		"ImmediateReporter": "VBA-TDD/src/ImmediateReporter.cls",
 		"SpecDefinition": "VBA-TDD/src/SpecDefinition.cls",
