@@ -12,3 +12,5 @@ Practical training for use of `VBA-TDD`, `VBA-Import-Export`, Git, and Test Driv
 4. press the `Run Specs` button on the `Spec Runner` sheet
 5. Write methods in the `Utilities.bas` module
 6. Write tests in the `Utilities_Specs.bas` module
+7. Export modules using `VBA-Import-Export` and only save the binary file if it's actually changed.
+8. Push changes up to the remote repository and notify challenger of the change
